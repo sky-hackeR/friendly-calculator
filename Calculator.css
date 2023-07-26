@@ -57,3 +57,9 @@ body {
     font-size: 2.5rem;    
 }
 
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+    text-align: center;
+    color: aliceblue;
+    margin-top: -10vh;
+}
